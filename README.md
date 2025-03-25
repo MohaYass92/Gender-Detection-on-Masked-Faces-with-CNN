@@ -36,7 +36,7 @@ jupyter notebook
 Then open `CNN_Model.ipynb` and execute the cell.
 
 ## 🏋️ Training the Model
-The notebook contain only one and it includes:
+The notebook contain only one cell and it includes:
 - Load and preprocess the dataset
 - Define and train a CNN model using TensorFlow/Keras
 - Evaluate the model on the dataset
