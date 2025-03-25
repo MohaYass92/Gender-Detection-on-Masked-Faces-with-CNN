@@ -10,6 +10,7 @@ This project implements a Convolutional Neural Network (CNN) for gender classifi
 │   ├── Male/               # Images of male individuals
 ├── CNN_Model.ipynb         # Jupyter Notebook containing training and evaluation
 ├── plot_accuracy_loss.png  # plot of accuracy and loss
+├── masked_sample           # sample of images used for training
 ├── requirements.txt        # Dependencies required to run the project
 └── README.md               # Project documentation
 ```
@@ -46,7 +47,7 @@ The dataset contains images of masked individuals, divided into two folders:
 - `Female/`
 - `Male/`
 ## Example of Masked Image
-![Masked Face Sample](images/masked_sample.jpg)
+![Masked Face Sample](masked_sample.png)
 
 Ensure that your dataset is correctly placed before running the notebook.
 
